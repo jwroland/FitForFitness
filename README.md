@@ -1,4 +1,5 @@
 # Fit for Fitness
+**Author:** Jacob Roland
 
 A two-page responsive website designed for the Fit for Fun Fitness Club.  
 This project combines a custom Flexbox-based navigation system with Bootstrap 5’s professional UI components.
@@ -11,7 +12,6 @@ This site includes:
 - A **Bootstrap table** listing upcoming fitness classes (5×5 minimum)
 - A **contact page** with matching navigation and consistent layout
 
-
 ## Pages Included
 - `index.html` — Main homepage with card + class schedule  
 - `contactus.html` — Placeholder contact page with matching navigation  
@@ -23,6 +23,3 @@ https://www.ozarktechwebdev.com/jacob/fit-for-fitness/
 
 ## Screenshot
 ![Screenshot of Homepage](images/screenshot.png)
-
-
-
