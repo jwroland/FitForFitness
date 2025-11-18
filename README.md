@@ -1,6 +1,6 @@
 # Fit for Fitness
 **Author:** Jacob Roland
-
+# **Collaborator** Matthew Kolbe #
 A two-page responsive website designed for the Fit for Fun Fitness Club.  
 This project combines a custom Flexbox-based navigation system with Bootstrap 5’s professional UI components.
 
