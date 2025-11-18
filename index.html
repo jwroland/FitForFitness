@@ -50,7 +50,28 @@
         A modern fitness space focused on clarity, balance, and fun.
       </p>
     </header>
-
+    <!-- Bootstrap Carousel -->
+    <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/weightlifting.jpg" class="d-block w-100" alt="weight-lifting">
+        </div>
+        <div class="carousel-item">
+          <img src="images/yoga.webp" class="d-block w-100" alt="yoga">
+        </div>
+        <div class="carousel-item">
+          <img src="images/spin.jpg" class="d-block w-100" alt="spin class">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
     <!-- Single Bootstrap Card -->
     <section class="mb-5">
       <div class="card shadow-sm">
@@ -124,6 +145,8 @@
     </footer>
 
   </main>
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
